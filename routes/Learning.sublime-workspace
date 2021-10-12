@@ -1,0 +1,1301 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"htp",
+				"http.createServer"
+			],
+			[
+				"console",
+				"console.log"
+			],
+			[
+				"bg-gra",
+				"bg-gray-400"
+			],
+			[
+				"bg-gr",
+				"bg-gray-200"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"get",
+				"getInitialProps"
+			],
+			[
+				"cer",
+				"certificate"
+			],
+			[
+				"shad",
+				"shadow-md \tTailwind Class"
+			],
+			[
+				"spac",
+				"space-x-3 \tTailwind Class"
+			],
+			[
+				"dura",
+				"duration-300 \tTailwind Class"
+			],
+			[
+				"hovbggra",
+				"hover:bg-gray-100 \tTailwind Class"
+			],
+			[
+				"uploadS",
+				"uploadShow"
+			],
+			[
+				"focringbl",
+				"focus:ring-blue-400 \tTailwind Class"
+			],
+			[
+				"tex",
+				"text-sm \tTailwind Class"
+			],
+			[
+				"upload",
+				"uploadShow"
+			],
+			[
+				"gr",
+				"grid-cols-4 \tTailwind Class"
+			],
+			[
+				"tce",
+				"text-center \tTailwind Class"
+			],
+			[
+				"spl",
+				"split\t( separator: string, limit: int ): string String"
+			],
+			[
+				"bgblu",
+				"bg-blue-600 \tTailwind Class"
+			],
+			[
+				"focrbl",
+				"focus:ring-blue-600 \tTailwind Class"
+			],
+			[
+				"conte",
+				"content"
+			],
+			[
+				"sca",
+				"scale-50 \tTailwind Class"
+			],
+			[
+				"bgopac",
+				"bg-opacity-50 \tTailwind Class"
+			],
+			[
+				"bobl",
+				"border-blue-300 \tTailwind Class"
+			],
+			[
+				"bggre",
+				"bg-green-400 \tTailwind Class"
+			],
+			[
+				"disna",
+				"displayName"
+			],
+			[
+				"bgbl",
+				"bg-blue-600 \tTailwind Class"
+			],
+			[
+				"foringbl",
+				"focus:ring-blue-200 \tTailwind Class"
+			],
+			[
+				"sha",
+				"shadow-md \tTailwind Class"
+			],
+			[
+				"sear",
+				"search-mobile"
+			],
+			[
+				"gridc",
+				"grid-cols-3 \tTailwind Class"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"grdc",
+				"grid-cols-1 \tTailwind Class"
+			],
+			[
+				"fleno",
+				"flex-nowrap \tTailwind Class"
+			],
+			[
+				"te",
+				"text-xl \tTailwind Class"
+			],
+			[
+				"hovbggr",
+				"hover:bg-gray-100 \tTailwind Class"
+			],
+			[
+				"mb-",
+				"mb-32 \tTailwind Class"
+			],
+			[
+				"bggr",
+				"bg-gray-100 \tTailwind Class"
+			],
+			[
+				"tegra",
+				"text-gray-400 \tTailwind Class"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"texgra",
+				"text-gray-700 \tTailwind Class"
+			],
+			[
+				"forinbl",
+				"focus:ring-blue-400 \tTailwind Class"
+			],
+			[
+				"w-",
+				"w-36 \tTailwind Class"
+			],
+			[
+				"sto",
+				"storage"
+			],
+			[
+				"flr",
+				"float-right \tTailwind Class"
+			],
+			[
+				"spa",
+				"space-x-2 \tTailwind Class"
+			],
+			[
+				"bg-bl",
+				"bg-blue-400 \tTailwind Class"
+			],
+			[
+				"rfu",
+				"rounded-full \tTailwind Class"
+			],
+			[
+				"duration",
+				"duration-150 \tTailwind Class"
+			],
+			[
+				"dur",
+				"duration-100 \tTailwind Class"
+			],
+			[
+				"tra",
+				"transition-all \tTailwind Class"
+			],
+			[
+				"sat",
+				"statusMenu"
+			],
+			[
+				"grd",
+				"grid-cols-1 \tTailwind Class"
+			],
+			[
+				"blo",
+				"block \tTailwind Class"
+			],
+			[
+				"tered",
+				"text-red-400 \tTailwind Class"
+			],
+			[
+				"focuring-gr",
+				"focus:ring-gray-400 \tTailwind Class"
+			],
+			[
+				"bg-b",
+				"bg-blue-400 \tTailwind Class"
+			],
+			[
+				"getm",
+				"getMinutes\t(): int Date"
+			],
+			[
+				"grid",
+				"grid-cols-3 \tTailwind Class"
+			],
+			[
+				"gap",
+				"gap-2 \tTailwind Class"
+			],
+			[
+				"fier",
+				"firebase"
+			],
+			[
+				"fli",
+				"font-light \tTailwind Class"
+			],
+			[
+				"grfl",
+				"grid-flow-row \tTailwind Class"
+			],
+			[
+				"bgopa",
+				"bg-opacity-75 \tTailwind Class"
+			],
+			[
+				"ring-bl",
+				"ring-blue-300 \tTailwind Class"
+			],
+			[
+				"focus",
+				"focus:ring \tTailwind Class"
+			],
+			[
+				"bg-blu",
+				"bg-blue-400 \tTailwind Class"
+			],
+			[
+				"borderbl",
+				"border-blue-300 \tTailwind Class"
+			],
+			[
+				"focuringbl",
+				"focus:ring-blue-300 \tTailwind Class"
+			],
+			[
+				"bgblue",
+				"bg-blue-400 \tTailwind Class"
+			],
+			[
+				"produ",
+				"product_id"
+			],
+			[
+				"prud",
+				"product_id"
+			],
+			[
+				"uploa",
+				"uploaded"
+			],
+			[
+				"uplo",
+				"upload\t XMLHttpRequest"
+			],
+			[
+				"selec",
+				"selected\tAttr"
+			],
+			[
+				"focur-gr",
+				"focus:ring-gray-400 \tTailwind Class"
+			],
+			[
+				"jus",
+				"justify-start \tTailwind Class"
+			],
+			[
+				"qe",
+				"querySelector\t( selectors: DOMString ): Element Document"
+			],
+			[
+				"img",
+				"imgPreview"
+			],
+			[
+				"justify",
+				"justify-end \tTailwind Class"
+			],
+			[
+				"style",
+				"style\tAttr"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"status",
+				"statusCategory"
+			],
+			[
+				"to",
+				"top-0 \tTailwind Class"
+			],
+			[
+				"borb",
+				"border-b \tTailwind Class"
+			],
+			[
+				"border-blu",
+				"border-blue-400 \tTailwind Class"
+			],
+			[
+				"round",
+				"rounded-3xl \tTailwind Class"
+			],
+			[
+				"doc",
+				"document\t: Document Window"
+			],
+			[
+				"ju",
+				"justify-center \tTailwind Class"
+			],
+			[
+				"focringgr",
+				"focus:ring-gray-200 \tTailwind Class"
+			],
+			[
+				"hov",
+				"hover:underline \tTailwind Class"
+			],
+			[
+				"border-gr",
+				"border-gray-400 \tTailwind Class"
+			],
+			[
+				"focugr",
+				"focus:bg-gray-200 \tTailwind Class"
+			],
+			[
+				"shadow",
+				"shadow-md \tTailwind Class"
+			],
+			[
+				"bg-g",
+				"bg-gray-500 \tTailwind Class"
+			],
+			[
+				"bg-blue",
+				"bg-blue-600 \tTailwind Class"
+			],
+			[
+				"que",
+				"querySelectorAll\t( selectors: DOMString ): NodeList Document"
+			],
+			[
+				"h-8",
+				"h-80 \tTailwind Class"
+			],
+			[
+				"roun",
+				"rounded-2xl \tTailwind Class"
+			],
+			[
+				"border-gra",
+				"border-gray-400 \tTailwind Class"
+			],
+			[
+				"setTime",
+				"setTimeout\t( handler: any, timeout?: long, arguments_..: any ): long Window"
+			],
+			[
+				"ml",
+				"ml-10 \tTailwind Class"
+			],
+			[
+				"rou",
+				"rounded-2xl \tTailwind Class"
+			],
+			[
+				"key",
+				"keyDelete"
+			],
+			[
+				"query",
+				"querySelector\t( selectors: DOMString ): Element (Selectors) Element"
+			],
+			[
+				"bg-opa",
+				"bg-opacity-75 \tTailwind Class"
+			],
+			[
+				"bg-red",
+				"bg-red-400 \tTailwind Class"
+			],
+			[
+				"text",
+				"text-xs \tTailwind Class"
+			],
+			[
+				"bg-re",
+				"bg-red-400 \tTailwind Class"
+			],
+			[
+				"conso",
+				"console_log"
+			],
+			[
+				"preve",
+				"preventDefault\t(): void Event"
+			],
+			[
+				"max",
+				"maxlength\tAttr"
+			],
+			[
+				"grid-cols",
+				"grid-cols-4 \tTailwind Class"
+			],
+			[
+				"border",
+				"border-b \tTailwind Class"
+			],
+			[
+				"fob",
+				"font-bold \tTailwind Class"
+			],
+			[
+				"focusring-b",
+				"focus:ring-blue-50 \tTailwind Class"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"w-3",
+				"w-36 \tTailwind Class"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"tegre",
+				"text-green-400 \tTailwind Class"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"ad",
+				"admin"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"fire",
+				"firestore"
+			],
+			[
+				"bo",
+				"border \tTailwind Class"
+			],
+			[
+				"ceter",
+				"text-center \tTailwind Class"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/ferdi/Downloads/learn/auth-exp/app.js",
+			"settings":
+			{
+				"buffer_size": 1497,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.js",
+			"settings":
+			{
+				"buffer_size": 1671,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Learning.sublime-project",
+			"settings":
+			{
+				"buffer_size": 78,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "users.js",
+			"settings":
+			{
+				"buffer_size": 453,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/ferdi/Downloads/learn/auth-exp/views/signup.ejs",
+			"settings":
+			{
+				"buffer_size": 446,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/ferdi/Downloads/learn/auth-exp/mongo/connect.js",
+			"settings":
+			{
+				"buffer_size": 256,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"e",
+				"Package Control: Enable Package"
+			],
+			[
+				"DI",
+				"Package Control: Disable Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"bab",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"htm",
+				"HTMLBeautify"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"beau",
+				"HTMLBeautify"
+			],
+			[
+				"php",
+				"PHP Code Sniffer: Turn Execute On Save On"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"console",
+				"Snippet: consoleError"
+			],
+			[
+				"bea",
+				"Javascript Beautify"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ht",
+				"HTMLBeautify"
+			],
+			[
+				"phpbe",
+				"PHP Coding Standards Fixer: Fix this file (PHP Code Beautifier)"
+			],
+			[
+				"drop",
+				"Snippet: dropdown"
+			],
+			[
+				"dropd",
+				"Snippet: dropdown"
+			],
+			[
+				"dropdown",
+				"Snippet: dropdown"
+			],
+			[
+				"cons",
+				"Snippet: consoleWarn"
+			],
+			[
+				"javasc",
+				"Javascript Beautify"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"Bookmarks: Select All"
+			],
+			[
+				"Git",
+				"Git: Status"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"modal",
+				"Snippet: modal"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"beaut",
+				"HTMLBeautify"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insra",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 124.0,
+		"history":
+		[
+			"print('Username\\t : \\t Ferdiansyah')",
+			"print(__name__)",
+			"print(__main__())",
+			"print(__main__)",
+			"exit()",
+			"print('a')",
+			"print 'a'",
+			"?",
+			"print('2')",
+			"?",
+			"exit()",
+			"exit",
+			"if 1 or 0: print('1')",
+			"if 1 > 0: print('1')",
+			"if 1 > 0:",
+			"if 1 > 0",
+			"if",
+			"import time",
+			"python",
+			"php"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/ferdi/Downloads/learn",
+		"/C/Users/ferdi/Downloads/learn/auth-exp",
+		"/C/Users/ferdi/Downloads/learn/auth-exp/mongo",
+		"/C/Users/ferdi/Downloads/learn/auth-exp/routes",
+		"/C/Users/ferdi/Downloads/learn/auth-exp/views"
+	],
+	"file_history":
+	[
+		"/C/Users/ferdi/Downloads/learn/app.js",
+		"/C/Users/ferdi/Downloads/learn/auth-exp/package.json",
+		"/C/Users/ferdi/Downloads/learn/auth-exp/views/login.ejs",
+		"/C/Users/ferdi/Downloads/learn/auth-exp/views/index.ejs",
+		"/C/Users/ferdi/AppData/Roaming/Sublime Text 3/Packages/User/Node.sublime-build",
+		"/C/Users/ferdi/AppData/Roaming/Sublime Text 3/Packages/User/Laravel.sublime-build",
+		"/C/laragon/www/portfolio/tailwind.config.js",
+		"/C/laragon/www/portfolio/data/project.js",
+		"/C/laragon/www/portfolio/pages/_document.js",
+		"/C/laragon/www/portfolio/.babelrc",
+		"/C/laragon/www/portfolio/pages/index.js",
+		"/C/laragon/www/vue/blogs/public/img/icons/android-chrome-192x192.png",
+		"/C/laragon/www/vue/blogs/.env.local",
+		"/C/laragon/www/vue/blogs/src/views/ViewBlog.vue",
+		"/C/laragon/www/vue/blogs/src/views/ShowCategory.vue",
+		"/C/laragon/www/vue/blogs/src/views/Search.vue",
+		"/C/laragon/www/vue/blogs/src/views/RemoveImage.vue",
+		"/C/laragon/www/vue/blogs/src/views/RemoveBlog.vue",
+		"/C/laragon/www/vue/blogs/src/views/Register.vue",
+		"/C/laragon/www/vue/blogs/src/views/Login.vue",
+		"/C/laragon/www/vue/blogs/src/views/EditBlog.vue",
+		"/C/laragon/www/vue/blogs/src/views/Dashboard.vue",
+		"/C/laragon/www/vue/blogs/src/views/CreateBlog.vue",
+		"/C/laragon/www/vue/blogs/src/views/Asset.vue",
+		"/C/laragon/www/vue/blogs/src/views/Account.vue",
+		"/C/laragon/www/vue/blogs/src/views/Home.vue",
+		"/C/laragon/www/vue/blogs/public/index.html",
+		"/C/laragon/www/vue/blogs/src/App.vue",
+		"/C/laragon/www/vue/blogs/src/components/BCard.vue",
+		"/C/laragon/www/vue/blogs/src/fb.js",
+		"/C/laragon/www/vue/blogs/src/components/Navbar.vue",
+		"/C/laragon/www/vue/blogs/src/main.js",
+		"/C/laragon/www/vue/blogs/src/components/Footer.vue",
+		"/C/laragon/www/vue/blogs/src/router/index.js",
+		"/C/laragon/www/vue/blogs/.gitignore",
+		"/C/laragon/www/vue/blogs/src/store/index.js",
+		"/C/laragon/www/vue/blogs/tailwind.config.js",
+		"/C/laragon/www/vue/blogs/node_modules/ui-component-vue/firebase/Login.vue",
+		"/C/Users/ferdi/project/skl-akademik2/app.py",
+		"/C/laragon/www/vue/blogs/src/assets/app.css",
+		"/C/laragon/www/vue/blogs/src/components/Sidebar.vue",
+		"/C/laragon/www/vue/blogs/package.json",
+		"/C/laragon/www/vue/blog/src/config/firebase.js",
+		"/C/laragon/www/vue/blog/public/index.html",
+		"/C/laragon/www/vue/blog/src/components/ItemCard.vue",
+		"/C/laragon/www/vue/blog/src/App.vue",
+		"/C/laragon/www/vue/blog/src/store/index.js",
+		"/C/laragon/www/vue/blog/src/views/ShowArticle.vue",
+		"/C/laragon/www/vue/blog/.env.local",
+		"/C/laragon/www/vue/blog/src/main.js",
+		"/C/laragon/www/vue/blog/src/views/CreateArticle.vue",
+		"/C/laragon/www/vue/blog/src/components/Footer.vue",
+		"/C/laragon/www/vue/blog/src/components/Navbar.vue",
+		"/C/laragon/www/vue/blog/src/components/Alert.vue",
+		"/C/laragon/www/vue/blog/src/views/Setting.vue",
+		"/C/laragon/www/vue/blog/src/views/Dashboard.vue",
+		"/C/laragon/www/vue/blog/src/views/Login.vue",
+		"/C/laragon/www/vue/blog/src/views/Register.vue",
+		"/C/laragon/www/vue/blog/package.json",
+		"/C/laragon/www/vue/blog/src/components/Item.vue",
+		"/C/laragon/www/vue/blog/src/router/index.js",
+		"/C/laragon/www/vue/blog/src/views/ShowProfile.vue",
+		"/C/laragon/www/vue/blog/src/views/Home.vue",
+		"/C/laragon/www/vue/blog/src/views/ShowBlog.vue",
+		"/C/laragon/www/vue/blog/tailwind.config.js",
+		"/C/laragon/www/vue/blog/.gitignore",
+		"/C/laragon/www/vue/blog/src/assets/App.css",
+		"/C/laragon/www/vue/blog/src/components/HelloWorld.vue",
+		"/C/laragon/www/vue/ecommerce/src/components/CardProduct.vue",
+		"/C/laragon/www/vue/ecommerce/public/index.html",
+		"/C/laragon/www/vue/ecommerce/src/components/CartProductItem.vue",
+		"/C/laragon/www/vue/ecommerce/src/views/ShowProduct.vue",
+		"/C/laragon/www/vue/ecommerce/src/views/Login.vue",
+		"/C/laragon/www/vue/ecommerce/src/views/Dashboard.vue",
+		"/C/laragon/www/vue/ecommerce/src/views/CreateProduct.vue",
+		"/C/laragon/www/vue/ecommerce/src/views/Register.vue",
+		"/C/laragon/www/vue/ecommerce/src/router/index.js",
+		"/C/laragon/www/vue/ecommerce/src/views/Home.vue",
+		"/C/laragon/www/vue/ecommerce/src/App.vue",
+		"/C/laragon/www/vue/ecommerce/src/store/index.js",
+		"/C/laragon/www/vue/ecommerce/src/components/Footer.vue",
+		"/C/laragon/www/vue/ecommerce/src/main.js",
+		"/C/laragon/www/vue/ecommerce/src/views/ShowCategory.vue",
+		"/C/laragon/www/vue/ecommerce/src/components/Navbar.vue",
+		"/C/laragon/www/vue/ecommerce/src/firebase.js",
+		"/C/laragon/www/vue/ecommerce/.env.local",
+		"/C/laragon/www/vue/todo-list-app/src/views/Login.vue",
+		"/C/laragon/www/vue/ecommerce/src/components/CartProduct.vue",
+		"/C/laragon/www/vue/ecommerce/src/components/Nav.vue",
+		"/C/laragon/www/vue/todo-list-app/.env.local",
+		"/C/laragon/www/vue/todo-list-app/src/firebase.js",
+		"/C/laragon/www/vue/trex-online/src/views/Home.vue",
+		"/C/laragon/www/vue/trex-online/src/App.vue",
+		"/C/laragon/www/vue/trex-online/tailwind.config.js",
+		"/C/laragon/www/vue/trex-online/src/main.js",
+		"/C/laragon/www/vue/todo-list-app/src/main.js",
+		"/C/laragon/www/vue/todo-list-app/src/components/AlertErorr.vue",
+		"/C/laragon/www/vue/todo-list-app/src/App.vue",
+		"/C/laragon/www/algorithm-chess/chess.js",
+		"/C/laragon/www/vue/chatapp/src/firebase.js",
+		"/C/laragon/www/vue/chatapp/src/main.js",
+		"/C/laragon/www/vue/todo-list-app/src/firebase,js",
+		"/C/laragon/www/vue/todo-list-app/src/assets/css/index.css",
+		"/C/laragon/www/portfolio2/styles/Home.module.css",
+		"/C/wamp64/www/systemschool/public/css/app.css",
+		"/C/wamp64/www/systemschool/Procfile",
+		"/C/wamp64/www/systemschool/resources/js/page/admin/ClassroomView.vue",
+		"/C/wamp64/www/systemschool/.env",
+		"/C/laragon/www/portfolio2/tailwind.config.js",
+		"/C/wamp64/www/systemschool/routes/web.php",
+		"/C/laragon/www/instagram-clone/src/component/navbar.jsx",
+		"/C/laragon/www/instagram-clone/src/page/login.jsx",
+		"/C/laragon/www/instagram-clone/src/page/profileshow.jsx",
+		"/C/laragon/www/instagram-clone/src/page/home.jsx",
+		"/C/laragon/www/instagram-clone/src/page/accountactivity.jsx",
+		"/C/laragon/www/instagram-clone/src/page/directinbox.jsx",
+		"/C/laragon/www/portfolio2/pages/template.js",
+		"/C/laragon/www/portfolio2/pages/projects/[id].js",
+		"/C/laragon/www/vue/chatapp/src/views/Home.vue",
+		"/C/laragon/www/vue/chatapp/src/router/index.js",
+		"/C/laragon/www/vue/chatapp/src/views/Room.vue",
+		"/C/laragon/www/vue/chatapp/src/components/Notification.vue",
+		"/C/laragon/www/instagram-clone/.gitignore",
+		"/C/laragon/www/instagram-clone/src/App.js",
+		"/C/laragon/www/instagram-clone/.env",
+		"/C/laragon/www/instagram-clone/src/page/register.jsx",
+		"/C/laragon/www/vue/chatapp/.env",
+		"/C/laragon/www/vue/chatapp/.gitignore"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"await connect()",
+			"email",
+			"Login",
+			"login",
+			"Login",
+			"login"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/ferdi/Downloads/learn/auth-exp/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1497,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								983,
+								983
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1671,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								569,
+								569
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Learning.sublime-project",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 78,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								78,
+								78
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "users.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 453,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								453,
+								453
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/ferdi/Downloads/learn/auth-exp/views/signup.ejs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 446,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								286,
+								286
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Users/ferdi/Downloads/learn/auth-exp/mongo/connect.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 256,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								214,
+								214
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.683917878529,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SFTP":
+	{
+		"height": 228.0
+	},
+	"output.Terminus":
+	{
+		"height": 217.0
+	},
+	"output.Terminus 2":
+	{
+		"height": 211.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 128.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 92.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.nodejs":
+	{
+		"height": 178.0
+	},
+	"pinned_build_system": "Packages/User/Node.sublime-build",
+	"project": "Learning.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\laragon\\www\\tech-messenger\\sublime.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
